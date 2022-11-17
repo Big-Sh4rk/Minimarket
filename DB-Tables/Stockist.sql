@@ -1,4 +1,4 @@
-CREATE TABLE Stocklist (
+CREATE TABLE Stockist (
 id int NOT NULL PRIMARY KEY,
 name varchar(50) NOT NULL,
 tel bigint NOT NULL,
